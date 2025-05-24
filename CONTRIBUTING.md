@@ -29,7 +29,7 @@ git pull upstream develop
 ```bash
 git checkout -b feature/your-branch-name
 ```
-## or for bug fixes
+## Or for bug fixes
 ```bash
 git checkout -b fix/issue-description
 ```
