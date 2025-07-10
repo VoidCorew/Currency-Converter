@@ -5,6 +5,6 @@ class ConvertPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: const Center(child: Text('Convert Page')));
+    return Scaffold(body: Center(child: const Text('Convert Page')));
   }
 }

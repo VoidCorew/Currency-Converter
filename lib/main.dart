@@ -32,8 +32,8 @@ class _CurrencyConverterPageState extends State<CurrencyConverterPage> {
   int _currentNavIndex = 0;
 
   final List<Widget> _pages = [
+    CurrencyPage(),
     const ConvertPage(),
-    const CurrencyPage(),
     const SettingsPage(),
   ];
 
